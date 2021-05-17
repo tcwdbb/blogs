@@ -1,8 +1,9 @@
 
 
 module.exports = {
-  title: "程勇瑞的个人博客",
+  title: "CYR的个人博客",
   description: '记录，让自己变的更好.',
+  base: '/blogs/',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
