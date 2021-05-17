@@ -33,15 +33,6 @@ module.exports = {
     searchMaxSuggestions: 10,
     // 自动形成侧边导航
     sidebar: 'auto',
-    friendLink: [
-      {
-        title: '午后南杂',
-        desc: 'Enjoy when you can, and endure when you must.',
-        email: 'recoluan@qq.com',
-        link: 'https://www.recoluan.com'
-      },
-      // ...
-    ]
   },
   markdown: {
     lineNumbers: true
