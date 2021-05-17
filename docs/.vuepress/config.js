@@ -25,6 +25,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/', icon: 'reco-home' },
       { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
+      { text: '简历', link: '/resume/', icon: 'reco-message' },
     ],
     // 搜索设置
     search: true,

@@ -1,7 +1,7 @@
 ---
 title: 测试
 categories:
- - 学习
+ - study
 author: 123
 ---
 
