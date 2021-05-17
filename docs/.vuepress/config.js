@@ -3,7 +3,7 @@
 module.exports = {
   title: "CYR的个人博客",
   description: '记录，让自己变的更好.',
-  base: '/blogs/',
+  base: '/blog/',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
