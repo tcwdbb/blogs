@@ -4,6 +4,8 @@ categories:
 - demo
 tag:
 - tab组件
+date:
+- 2021-04-15
 ---
 ## tab.js
 ``` js
