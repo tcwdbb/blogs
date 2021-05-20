@@ -8,7 +8,7 @@ tag:
 ## tab.js
 ``` js
 import './global.less';
-import './index.less';
+import './index.less';  
 
 const Tab = ((doc) => {
   /**
