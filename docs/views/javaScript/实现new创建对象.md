@@ -4,6 +4,8 @@ categories:
 - JavaScript
 tags:
 - 手写
+date: 
+- 2021-3-25
 ---
 ``` js
 function createObject(fn) {

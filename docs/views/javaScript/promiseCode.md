@@ -4,6 +4,8 @@ categories:
 - JavaScript
 tags: 
 - 手写
+date: 
+- 2021-3-05
 ---
 promise必须是这三个状态中的一种：等待态pending,解决态fulfilled或拒绝态rejected
 
