@@ -1,4 +1,6 @@
-
+---
+sidebar: auto
+---
 
 
 ## 联系方式
@@ -14,8 +16,8 @@
  - 程勇瑞/男/1996 
  - 高中
  - 工作年限：1年
- - [技术博客](https://tcwdbb.github.io/blogs/) 
- - [Github](https://github.com/tcwdbb) 
+ - [技术博客](https://tcwdbb.github.io/blogs/): https://tcwdbb.github.io/blogs/
+ - [Github](https://github.com/tcwdbb): https://github.com/tcwdbb
 
  - 期望职位：Web前端初级程序员
  - 期望薪资：税前月薪5k~7k
@@ -54,5 +56,5 @@
               第三，与同事互相交流学习，互相提升。
 - 我的优势：热爱技术，自学能力强，有良好的的自我认知，知道自己想要的。性格随和，良好的心态和沟通能力。
 - 我的劣势：非科班出生没有科班对算法的熟练掌握，但我决定死磕技术，通过自己的不断努力学习，弥补不足。
-# 致谢
+## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。

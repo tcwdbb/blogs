@@ -1,5 +1,6 @@
 ---
 title: 简单的tab切换组件封装
+sidebar: auto
 categories:
 - demo
 tag:

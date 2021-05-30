@@ -1,5 +1,6 @@
 ---
 title: 手写promise
+sidebar: auto
 categories:
 - JavaScript
 tags: 

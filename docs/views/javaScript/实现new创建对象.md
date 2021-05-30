@@ -1,5 +1,6 @@
 ---
 title: 实现new创建对象
+sidebar: auto
 categories:
 - JavaScript
 tags:

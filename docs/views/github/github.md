@@ -1,5 +1,6 @@
 ---
 title: 如何使用命令将本地项目上传到github
+sidebar: auto
 categories: 
 - github
 tags: 
