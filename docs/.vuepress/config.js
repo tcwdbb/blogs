@@ -60,7 +60,64 @@ module.exports = {
         children: [
           ['/note/notes/JavaScript','模块化'],
           ['/note/notes/Proxy','Proxy'],
-          ['/note/notes/操作对象的部分方法','操作对象的部分方法']
+          ['/note/notes/操作对象的部分方法','操作对象的部分方法'],
+          ['/note/notes/Promise','Promise'],
+          ['/note/notes/闭包','闭包']
+        ]
+      },
+      {
+        title: 'CSS',   // 必要的
+            // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+        collapsable: true, // 可选的, 默认值是 true,
+        sidebarDepth: 3,    // 可选的, 默认值是 1
+        children: [
+          ['/note/notes/BFC块级格式化上下文','BFC块级格式化上下文'],
+          ['/note/notes/块级元素垂直水平居中','块级元素垂直水平居中']
+        ]
+      },
+      {
+        title: 'arithmetic',   // 必要的
+            // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+        collapsable: true, // 可选的, 默认值是 true,
+        sidebarDepth: 3,    // 可选的, 默认值是 1
+        children: [
+          ['/note/notes/arithmetic','arithmetic']
+        ]
+      },
+      {
+        title: '虚拟DOM',   // 必要的
+            // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+        collapsable: true, // 可选的, 默认值是 true,
+        sidebarDepth: 3,    // 可选的, 默认值是 1
+        children: [
+          ['/note/notes/虚拟DOM','虚拟DOM']
+        ]
+      },
+      {
+        title: 'Vue',   // 必要的
+            // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+        collapsable: true, // 可选的, 默认值是 true,
+        sidebarDepth: 3,    // 可选的, 默认值是 1
+        children: [
+          // ['/note/notes/自定义v-model','v-model']
+        ]
+      },
+      {
+        title: 'webpack',   // 必要的
+            // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+        collapsable: true, // 可选的, 默认值是 true,
+        sidebarDepth: 3,    // 可选的, 默认值是 1
+        children: [
+          ['/note/notes/webpack','webpack']
+        ]
+      },
+      {
+        title: 'JavaScript深度学习合集',   // 必要的
+            // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+        collapsable: true, // 可选的, 默认值是 true,
+        sidebarDepth: 3,    // 可选的, 默认值是 1
+        children: [
+          ['/note/notes/JavaScript深度学习合集','JavaScript深度学习合集']
         ]
       },
     ],
