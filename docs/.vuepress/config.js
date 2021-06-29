@@ -30,7 +30,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/', icon: 'reco-home' },
       { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-      { text: '简历', link: '/resume/', icon: 'reco-message' },
+      // { text: '简历', link: '/resume/', icon: 'reco-message' },
       { text: '笔记', link: '/note/notes/', icon: 'reco-message'
         // items: [
         //   { text: '移动端', link: '/note/notes/', icon: 'reco-message' },
